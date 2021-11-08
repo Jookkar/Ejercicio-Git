@@ -24,7 +24,7 @@
 <h3>3. Seguimos las Instrucciones y creamos la evidencia de lo aprendido aplicandolo al "Trabajo 1 /Modulo 0".</h3>
     <h5>"En mi caso usare Loom para grabar y compartir el link".</h5>
     
-🔗 ()
+🔗 (https://www.loom.com/share/cffe96148b1f45eb968618e32ac0a9a2)
 
 ~~~
 Gracias y espero sus comentarios para poder mejorar.
